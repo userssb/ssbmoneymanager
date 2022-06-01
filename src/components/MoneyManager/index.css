@@ -1,0 +1,84 @@
+.bg-cont {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.name-cont {
+  background-color: #cffafe;
+  height: 100px;
+  width: 80%;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.name {
+  color: #7e858e;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.mm-span {
+  color: #0b69ff;
+  margin-left: 2px;
+}
+.welcome-text {
+  margin-left: 20px;
+}
+.trans-cont {
+  border: 1px solid #7e858e;
+  border-radius: 10px;
+  width: 450px;
+  padding: 20px;
+}
+.hist-cont {
+  border: 1px solid #7e858e;
+  border-radius: 10px;
+  width: 600px;
+  padding: 20px;
+  margin-left: 30px;
+}
+.form-cont {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  height: 35px;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.label {
+  color: #334155;
+}
+
+.table-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 48px;
+  width: 518px;
+  list-style-type: none;
+  border: 1px solid #7e858e;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.header-cell1 {
+  font-weight: bold;
+  margin-left: 40px;
+}
+.header-cell2 {
+  font-weight: bold;
+  margin-left: 80px;
+}
+.header-cell3 {
+  font-weight: bold;
+  margin-left: 60px;
+}
+.btn-add {
+  background-color: #0b69ff;
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  color: #ffffff;
+}
